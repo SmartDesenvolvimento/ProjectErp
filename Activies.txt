@@ -1,0 +1,6 @@
+Activies
+	Por o session em todas as páginas para segurança;
+	Alterar os tipo de alert
+	Verificar erro no cadastro de cliente
+	Validar dados preenchidos nos formulario
+	Ajustar tipo tabela nas lista
